@@ -3,4 +3,6 @@ Small script which fetches all jobs from:
 
   "https://www.oculus.com/careers/". 
 
-If you then run it on a later date it will give you a number on how many positions that have been removed i.e. number of people that have been employed since first execution of script.
+If you then run it on a later date it will give you a number on how many positions that have been removed i.e. number of people that have been employed since first execution of script. 
+
+The "jobs.csv" is used to keep track of the positions. It contains all the positions that was retrieved the last time the script ran.
